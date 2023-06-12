@@ -1,5 +1,5 @@
 ﻿using Assignment;
- // Change to Assignment.InterfaceCommand when rdy
+// Change to Assignment.InterfaceCommand when rdy
 
 namespace AssignmentTest
 {
