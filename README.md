@@ -13,7 +13,7 @@
 
 # IOT1026-Assignment-4
 
-Write a description of the project here and don't forget to update the badges.  
+![Output of the program](image.png) 
 
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
